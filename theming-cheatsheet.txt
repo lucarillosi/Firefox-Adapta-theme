@@ -1,0 +1,10 @@
+accentcolor                 sfondo schede inattive
+toolbar                     sfondo principale e tab attiva
+
+textcolor                   testo tab inattive e pulsante nuova tab
+toolbar_text                testo di preferiti, pulsanti di navigazione e tab attiva
+toolbar_field_text          testo url
+
+tab_line                    linea sopra alla tab attiva
+toolbar_bottom_separator
+popup_highlight             elementi hover nella barra ricerca

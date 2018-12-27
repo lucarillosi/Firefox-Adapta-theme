@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Adapta Light Foreground",
+  "theme": {
+    "colors": {
+      "accentcolor": "#222D32",
+      "toolbar": "#F5F6F7",
+      "textcolor": "#C1CACE",
+      "toolbar_text": "#5C616C",
+      "toolbar_field_text": "#5C616C",
+      "toolbar_bottom_separator": "#DCDFE3",
+      "tab_line": "#5294E2",
+      "popup_highlight": "#5294E2"
+    }
+  }
+}
